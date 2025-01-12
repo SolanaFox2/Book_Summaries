@@ -569,10 +569,6 @@
 - If you have white privilege, then you have privilege
 - If you are a US citizen, then you can live in the US legally
 
-**Venn Diagram Schematic**:
-```A                        B
-\n\nWrite comprehensive bulleted notes summarizing the provided text, with headings and terms in bold.
-
 #### Avoiding Logical Fallacies in Communication and Thinking
 
 **Convergent Statements vs. Converse Errors**

@@ -1,4 +1,4 @@
-# Grit_processed
+# Grit
 
 ## cognitivetech/obook_summary:q5_k_m
 

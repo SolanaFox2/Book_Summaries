@@ -1,4 +1,4 @@
-# Meditations_processed
+# Meditations
 
 ## cognitivetech/obook_summary:q5_k_m
 

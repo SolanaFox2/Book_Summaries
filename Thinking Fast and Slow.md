@@ -1,4 +1,4 @@
-# Thinking-Fast-and-Slow_processed
+# Thinking Fast and Slow
 
 ## cognitivetech/obook_summary:q5_k_m
 

@@ -1,4 +1,4 @@
-# The-Art-of-Logic_processed
+# The Art of Logic
 
 ## cognitivetech/obook_summary:q5_k_m
 

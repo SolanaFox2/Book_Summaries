@@ -1,11 +1,6 @@
-# The-Wisdom-of-the-Bullfrog-Admiral-William-H-McRaven_processed
+# The Wisdom of the Bullfrog
 
 ## cognitivetech/obook_summary:q5_k_m
-
-### Cover
-
-OceanofPDF.com 
-
 
 Let me know if you'd like me to explain anything about this website or its potential uses!
 

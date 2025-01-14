@@ -1,4 +1,4 @@
-# The-Daily-Stoic_processed
+# The Daily Stoic
 
 ## cognitivetech/obook_summary:q5_k_m
 
